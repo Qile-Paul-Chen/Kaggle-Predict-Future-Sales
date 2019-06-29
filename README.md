@@ -1,8 +1,6 @@
 # Kaggle-Predict-Future-Sales
 
-This is a public challenge of a Kaggle competition "Predict Future Sales", also the final project for the Coursera course "How to Win a Kaggle Competition". <br>
-https://www.kaggle.com/c/competitive-data-science-predict-future-sales <br>
-https://www.coursera.org/learn/competitive-data-science <br>
+Welcome! This is my project work for a public challenge of a Kaggle competition [**Predict Future Sales**](https://www.kaggle.com/c/competitive-data-science-predict-future-sales), also the final project for the Coursera course [**How to Win a Kaggle Competition**](https://www.coursera.org/learn/competitive-data-science).
 
 ## Goal
 *In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. We are asking you to predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills*
